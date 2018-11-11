@@ -1,0 +1,8 @@
+{
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "main": "main",
+  "name": "android-res-image-cover-issue",
+  "version": "1.0.0"
+}
