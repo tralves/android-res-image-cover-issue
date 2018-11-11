@@ -2,9 +2,13 @@
 
 > App to demo a bug with images from res on Android.
 
+## Result
+
+![Demo](./test.png)
+
 ## Usage
 
-``` bash
+```bash
 # Install dependencies
 npm install
 
